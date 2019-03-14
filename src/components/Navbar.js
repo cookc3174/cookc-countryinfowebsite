@@ -52,7 +52,7 @@ const Navbar = class extends React.Component {
                 About
               </Link>
               <Link className="navbar-item" to="/products">
-                Products
+                Country List
               </Link>
               <Link className="navbar-item" to="/blog">
                 Blog
