@@ -1,5 +1,5 @@
 ---
-templateKey: 'about-page'
+templateKey: 'product-page'
 path: /products
 title: Our World
 image: /img/planet.png
