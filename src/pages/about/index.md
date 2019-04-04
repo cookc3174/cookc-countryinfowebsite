@@ -3,20 +3,19 @@ templateKey: 'about-page'
 path: /about
 title: About our values
 ---
-### Shade-grown coffee
-This is a test to see if the page updates...
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### What This Website is
+If you have found this page then you are probably wondering what exactly this
+website is. This website contains a great deal of information about countries
+all around the world. Under the "Country List" tab you can find more information.
 
-### Single origin
-This is a second test...
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### How This Site Works
+If you want to know more about a particular country, then you came to the right
+place. This website has information on almost every country all around the world.
+All you need to do is find the country of your choosing, and you will be provided
+will all sorts of information.
 
-### Sustainable farming
-This is a third test...
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### What is this website's purpose
+The purpose of this website is to offer a fast and easy way of finding information
+on any country around the world. If you are reading this then you probably already
+know how complicated it is to find information on countries already. This website
+contains simple details about the country itself disregarding the political side.
