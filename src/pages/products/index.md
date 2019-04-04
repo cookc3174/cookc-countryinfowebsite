@@ -1,6 +1,6 @@
 ---
 templateKey: 'product-page'
-path: /products
+path: /countrylist
 title: Our World
 image: /img/planet.png
 heading: List of Countries
