@@ -6,18 +6,17 @@ import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import Content, { HTMLContent } from '../components/Content'
 
 export const ProductPageTemplate = ({
   image,
   title,
-  heading,
   description,
-  intro,
-  main,
-  testimonials,
-  fullImage,
-  pricing,
+  content,
+  contentComponent
 }) => (
+  const PageContent = contentComponent || Content
+
   <section className="section section--gradient">
     <div className="container">
       <div className="section">
@@ -67,8 +66,8 @@ ProductPageTemplate.propTypes = {
   title: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
+  content: PropTypes.string,
+  contentComponent: PropTypes.string
   }),
   main: PropTypes.shape({
     heading: PropTypes.string,
@@ -96,11 +95,8 @@ const ProductPage = ({ data }) => {
         title={frontmatter.title}
         heading={frontmatter.heading}
         description={frontmatter.description}
-        intro={frontmatter.intro}
-        main={frontmatter.main}
-        testimonials={frontmatter.testimonials}
-        fullImage={frontmatter.full_image}
-        pricing={frontmatter.pricing}
+        content={frontmatter.content}
+        contentComponent={frontmatter.contentComponent}
       />
     </Layout>
   )
@@ -144,60 +140,8 @@ export const productPageQuery = graphql`
           heading
           description
         }
-        main {
-          heading
-          description
-          image1 {
-            alt
-            image {
-              childImageSharp {
-                fluid(maxWidth: 526, quality: 92) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-          }
-          image2 {
-            alt
-            image {
-              childImageSharp {
-                fluid(maxWidth: 526, quality: 92) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-          }
-          image3 {
-            alt
-            image {
-              childImageSharp {
-                fluid(maxWidth: 1075, quality: 72) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-          }
-        }
-        testimonials {
-          author
-          quote
-        }
-        full_image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
-        pricing {
-          heading
-          description
-          plans {
-            description
-            items
-            plan
-            price
-          }
+        content {
+          text
         }
       }
     }
