@@ -53,7 +53,7 @@ export const ProductPageTemplate = ({
                     {heading}
                   </h3>
                   <p>{description}</p>
-                  <p?{content}</p>
+                  <p>{content}</p>
                 </div>
               </div>
             </div>
