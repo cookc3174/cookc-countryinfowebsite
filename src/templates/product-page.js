@@ -7,6 +7,7 @@ import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import Helmet from 'react-helmet'
+import { kebabCase } from 'lodash'
 
 export const ProductPageTemplate = ({
   image,
