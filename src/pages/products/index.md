@@ -11,5 +11,5 @@ description: >-
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 content: >-
-  This is a test [Indeed](https://www.indeed.com/)
+  This is a test [usa]({{<ref "countries/usa.md" >}})
 ---
