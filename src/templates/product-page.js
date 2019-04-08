@@ -6,12 +6,14 @@ import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import Helmet from 'react-helmet'
 
 export const ProductPageTemplate = ({
   image,
   title,
   heading,
   description,
+  tags,
   content,
   intro,
   main,
@@ -54,6 +56,18 @@ export const ProductPageTemplate = ({
                   </h3>
                   <p>{description}</p>
                   <p>{content}</p>
+                  {tags && tags.length ? (
+                    <div style={{ marginTop: `4rem` }}>
+                      <h4>Tags</h4>
+                      <ul className="taglist">
+                        {tags.map(tag => (
+                          <li key={tag + `tag`}>
+                            <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  ) : null}
                 </div>
               </div>
             </div>
@@ -100,6 +114,7 @@ const ProductPage = ({ data }) => {
         heading={frontmatter.heading}
         description={frontmatter.description}
         content={frontmatter.content}
+        tags={post.frontmatter.tags}
         intro={frontmatter.intro}
         main={frontmatter.main}
         testimonials={frontmatter.testimonials}
@@ -135,6 +150,7 @@ export const productPageQuery = graphql`
         heading
         description
         content
+        tags
         intro {
           blurbs {
             image {
