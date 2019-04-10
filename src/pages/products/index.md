@@ -11,5 +11,6 @@ description: >-
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 content: >-
-  This is a test [usa]({{< relref "/countries/usa.md" >}})
+  This is a test
 ---
+[usa]({{< relref "/countries/usa.md" >}})
