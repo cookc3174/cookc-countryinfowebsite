@@ -37,19 +37,19 @@ const TemplateWrapper = ({ children }) => (
           <link
             rel="icon"
             type="image/png"
-            href="/img/favicon-32x32.png"
+            href="/img/planet.jpeg"
             sizes="32x32"
           />
           <link
             rel="icon"
-            type="image/png"
-            href="/img/favicon-16x16.png"
+            type="image/jpeg"
+            href="/img/planet.jpeg"
             sizes="16x16"
           />
 
           <link
             rel="mask-icon"
-            href="/img/safari-pinned-tab.svg"
+            href="/img/planet.jpg"
             color="#ff4400"
           />
           <meta name="theme-color" content="#fff" />
