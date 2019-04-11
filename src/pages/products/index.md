@@ -13,4 +13,3 @@ description: >-
 content: >-
   This is a test
 ---
-[usa]({{< relref "/countries/usa.md" >}})
