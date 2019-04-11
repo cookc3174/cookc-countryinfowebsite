@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Layout from '../../components/Layout'
-import BlogRoll from '../../components/BlogRoll'
+import BlogRoll2 from '../../components/BlogRoll2'
 
 export default class BlogIndexPage extends React.Component {
   render() {
@@ -30,7 +30,7 @@ export default class BlogIndexPage extends React.Component {
                 </h1>
               </div>
             </div>
-              <BlogRoll />
+              <BlogRoll2 />
             </div>
         </section>
       </Layout>
