@@ -1,8 +1,8 @@
 ---
 templateKey: 'index-page'
-title: 'Great coffee with a conscience'
+title: 'Countries all around the world'
 image: /img/home-jumbotron.jpg
-heading: Countries all around the world
+heading: What we offer
 subheading: There are more than you think
 description: >-
   Country Information Site is a place where you can learn more about other surrounding
@@ -19,11 +19,8 @@ intro:
   blurbs:
     - image: /img/mainImgs/capital.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Explore and learn about different areas within countries. Link locations
+        together and see why they are important to that specific country.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
