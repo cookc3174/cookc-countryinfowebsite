@@ -2,24 +2,22 @@
 templateKey: 'index-page'
 title: 'Great coffee with a conscience'
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Countries all around the world
+subheading: There are more than you think
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Country Information Site is a place where you can learn more about other surrounding
+  countries. There are vast amount of them all containing different cultures and
+  practices. Our country list provides several facts about each country.
 mainpitch:
-  title: Why Kaldi
+  title: Why is CIS important?
   description: >
-      Kaldi is the coffee store for everyone who believes that
-      great coffee shouldn't just taste good, it should do good
-      too. We source all of our beans directly from small scale
-      sustainable farmers and make sure part of the profits are
-      reinvested in their communities.
+      CIS offers a fast and simple way to provide information for users. If you
+      need to know some information about a country you are not familiar with,
+      this is the best solution. With CIS, you do not have to deal with unnecessary
+      details. All the information you are looking for is right there.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/mainImgs/capital.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -107,4 +105,3 @@ pricing:
       plan: Custom
       price: '??'
 ---
-
