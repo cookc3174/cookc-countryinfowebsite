@@ -23,7 +23,7 @@ export default class BlogIndexPage extends React.Component {
                     boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
                     backgroundColor: '#f40',
                     color: 'white',
-                    padding: '0.5rem',
+                    padding: '0.1rem',
                   }}
                 >
                   Our World
