@@ -31,7 +31,7 @@ intro:
         good relations with each other in order to remain stable.
     - image: /img/mainImgs/beach.jpg
       text: >
-        Explore popluar areas within countries that attractive to tourists. Each
+        Explore popluar areas within countries that are attractive to tourists. Each
         country has places that are considered secret to outsiders. 
   heading: What we offer
   description: >
