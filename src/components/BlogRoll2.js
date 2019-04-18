@@ -18,7 +18,7 @@ class BlogRoll2 extends React.Component {
             >
             <article className="tile is-child box notification">
               <p>
-                <Link className="title has-text-primary is-size-2" to={post.fields.slug}>
+                <Link className="title has-text-primary is-size-4" to={post.fields.slug}>
                   {post.frontmatter.title}
                 </Link>
               </p>
