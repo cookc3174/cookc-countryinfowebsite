@@ -3,9 +3,6 @@ templateKey: 'product-page'
 title: Afghanistan
 date: 2019-1-19T15:04:10.000Z
 description: Another interesting country.
-tags:
-  - flavor
-  - tasting
 ---
 
 ![flavor wheel](/img/flags/Afghanistan_Flag.jpg)
