@@ -10,8 +10,8 @@ description: Another interesting country.
 ## 5 Facts You Might Not Know
 
 ###1
-The Lynx is an animal of the cat family that looks a lot like a domestic cat but a little larger and patterns of a cheetah. This animal has long pointed ears and although has been extinct in many parts of the world, it still survives in Albania. It is such a magnificent creature that is worth seeing while in Albania
-.
+The Lynx is an animal of the cat family that looks a lot like a domestic cat but a little larger and patterns of a cheetah. This animal has long pointed ears and although has been extinct in many parts of the world, it still survives in Albania. It is such a magnificent creature that is worth seeing while in Albania.
+
 ###2
 The common religion practiced in Albania by more than two thirds of the entire population is Islam. Other religions are Albanian Eastern Orthodox and lastly the Roman Catholic. This country is known for the harmony between the religions to the extent that inter-religion marriages are not only popular but a rule in some parts of the country.
 
