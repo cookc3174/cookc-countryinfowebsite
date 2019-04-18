@@ -1,7 +1,7 @@
 ---
 templateKey: 'product-page'
 title: Algeria
-date: 2019-1-4T15:04:10.000Z
+date: 2019-1-197T15:04:10.000Z
 description: Another interesting country.
 ---
 
