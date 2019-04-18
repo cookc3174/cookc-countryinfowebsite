@@ -1,7 +1,7 @@
 ---
 templateKey: 'product-page'
 title: Afghanistan
-date: 2019-1-1T15:04:10.000Z
+date: 2019-1-200T15:04:10.000Z
 description: Another interesting country.
 ---
 
