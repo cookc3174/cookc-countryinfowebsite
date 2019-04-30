@@ -1,25 +1,25 @@
 ---
 templateKey: 'product-page'
-title: Bulgaria
-date: 2019-1-164T15:04:10.000Z
+title: Burkina Faso
+date: 2019-1-163T15:04:10.000Z
 description: Another interesting country.
 ---
 
-![flavor wheel](/img/flags/Bulgaria_Flag.png)
+![flavor wheel](/img/flags/BurkinaFaso_Flag.png)
 
 ## 5 Facts You Might Not Know
 
 ###1
-97% of Bulgarians own their own home. This is the highest private home ownership rate in the word. Interestingly, 97,9 % of privately owned homes have at least one television set; while only 93 % possess a refrigerator.
+Islam, Christianity and indigenous religion are practiced side by side with large acceptance of different beliefs. According to Wikipedia, a popular saying in the country is that 50% are Muslim, 50% are Christian, and 100% are animist.
 
 ###2
-Earliest prehistoric man lived in what is now Bulgaria. Cave paintings from 44,000 BC exist in Bacho Kiro cave. The oldest recovered artifacts made from gold have also been located in Bulgaria. Coins, jewelry and weapons dated from 4,600 BC were found in excavated burial sites in 1972.
+Although it is one of the poorest countries in the world, Burkina Faso has a stable government and is home to an important film festival every two years, the Panafrican Film and Television Festival of Ouagadougou (FESPACO). This festival is one of the most exciting film venues in Africa.
 
 ###3
-The earliest organized culture in Bulgaria was the Thracian's. Spartacus was a Thracian born in Bulgaria. As a Roman sympathizer turned gladiator slave, he led a revolt defeating the much larger Roman armies on several occasions.
+Burkina Faso has the one of the largest elephant populations in Africa and has recently signed a West African Elephant conservation pact. Elephants in West Africa may be a different species than other African elephants according to the IUCN Species Survival Commission's African Elephant Specialist Group.
 
 ###4
-The Rila Cross is a stature carved over twelve years by a Bulgarian Monk named Rafail until 1802 when he became blind. On the wooden cross, that stands less than 32 inches in height and 17 inches in width, are 104 scenes from the bible, as well as 650 figures.
+With a rich combination of wildlife, Burkina Faso is also home to endangered cheetahs, aardvarks, lions, baboons, warthogs and crocodiles. With streams and rivers running through the country, the crocodile has flourished. A unique animal found in the country is the giant pangolin, a mammal with a scale-like skin and appearance that resembles a reptile.
 
 ###5
-The first electronic digital computer was invented by the Bulgarian John Atanassoff during the years 1937-1942. Today, there is an annual John Vincent Atanassoff award given by the Bulgarian president to honor achievement in computer engineering.
+The name Burkina Faso, which means land of honest men, is a result of a coup in 1983 in which Thomas Sankara developed relations with Libya and Ghana. Before that time, the country was known as Upper Volta.
