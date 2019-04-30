@@ -59,33 +59,19 @@ const Footer = class extends React.Component {
                 </div>
                 <div className="column is-4 social">
 
-                  <a title="facebook" href="https://facebook.com">
+                  <a title="facebook" href="https://www.facebook.com/profile.php?id=100002049071653">
                     <img
                       src={facebook}
                       alt="Facebook"
                       style={{ width: '1em', height: '1em' }}
                     />
                   </a>
-                  <a title="twitter" href="https://twitter.com">
+                  <a title="twitter" href="https://twitter.com/chriscook81798">
                   <img
                     className="fas fa-lg"
                     src={twitter}
                     alt="Twitter"
                     style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                <a title="instagram" href="https://instagram.com">
-                  <img
-                  src={instagram}
-                  alt="Instagram"
-                  style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                <a title="vimeo" href="https://vimeo.com">
-                  <img
-                  src={vimeo}
-                  alt="Vimeo"
-                  style={{ width: '1em', height: '1em' }}
                   />
                 </a>
                 </div>
