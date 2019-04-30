@@ -4,6 +4,8 @@ title: Making sense of the SCAA’s new Flavor Wheel
 date: 2019-02-10T15:04:10.000Z
 description: First update for web portfolio.
 tags:
+  - flavor
+  - tasting
 ---
 
 After being first assigned the web design portfolio I have implemented a few
