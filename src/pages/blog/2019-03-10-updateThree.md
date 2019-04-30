@@ -2,6 +2,8 @@
 templateKey: blog-post
 title: Update three for project
 date: 2019-02-10T15:04:10.000Z
+description: Third update for web portfolio.
+tags:
 ---
 ## Update one
 
