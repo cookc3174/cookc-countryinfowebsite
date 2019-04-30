@@ -7,7 +7,6 @@ tags:
 - flavor
 - tasting
 ---
-## Update one
 
 After the past two weeks I have been able to get most of my web site completed.
 Firstly, I have removed all the unnecessary images and pieces of text that were

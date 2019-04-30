@@ -7,7 +7,6 @@ tags:
 - flavor
 - tasting
 ---
-## Update one
 
 After about a week of implementation I have added several new features to the
 website. One feature that was added recently was the about page. Everything that
