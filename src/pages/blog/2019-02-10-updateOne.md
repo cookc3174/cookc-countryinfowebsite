@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Update one for project
 date: 2019-02-10T15:04:10.000Z
 description: First update for web portfolio.
 tags:
